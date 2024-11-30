@@ -13,7 +13,7 @@ export default function CardsContainer({ filter }: { filter: string }) {
     <section>
       <ul
         role="list"
-        className="grid grid-cols-[repeat(auto-fit,minmax(28ch,0.5fr))] gap-2 md:gap-4 py-2 md:my-4"
+        className="grid grid-cols-[repeat(auto-fit,minmax(28ch,0.5fr))] gap-2 md:gap-4 py-2 md:my-4 justify-center"
       >
         {filteredCards.map(
           ({ url, title, body, tag, "date-added": dateAdded }, i) => (
