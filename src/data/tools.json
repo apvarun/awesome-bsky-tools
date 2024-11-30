@@ -1,0 +1,220 @@
+{
+  "tools": [
+    {
+      "title": "Realtime Bluesky Analytics",
+      "body": "Get realtime analytics on your Bluesky data.",
+      "tag": "Free",
+      "url": "https://realtime.blue",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky roast",
+      "body": "Discover your Bluesky digital persona",
+      "tag": "Free",
+      "url": "https://blueskyroast.com",
+      "date-added": "2024-11-30",
+      "category": ["fun"]
+    },
+    {
+      "title": "Bluesky Analytics",
+      "body": "Chrome extension to see your Bluesky analytics",
+      "tag": "Free",
+      "url": "https://chromewebstore.google.com/detail/bluesky-analytics/epalmieemmeognjjcjmjmbkpogfijjjb",
+      "date-added": "2024-11-30",
+      "category": ["analytics", "extension"]
+    },
+    {
+      "title": "Bluesky for Everyone",
+      "body": "Enhance Bluesky experience with useful features and improvements",
+      "tag": "Free",
+      "url": "https://chromewebstore.google.com/detail/bluesky-for-everyone/bmoehnfdgafmljnmbidgjhgfaegkfddk",
+      "date-added": "2024-11-30",
+      "category": ["customization", "extension"]
+    },
+    {
+      "title": "Bluesky Meter",
+      "body": "Discover your bluesky analytics",
+      "tag": "Free",
+      "url": "https://blueskymeter.com",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Blueview",
+      "body": "Get Powerful insights and analytics on your Bluesky social presence",
+      "tag": "Free",
+      "url": "https://blueview.app",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bluesletter",
+      "body": "The ultimate platform to turn your Bluesky posts into engaging newsletters, grow your audience, and analyze your impact.",
+      "tag": "Free",
+      "url": "https://www.bluesletter.social",
+      "date-added": "2024-11-30",
+      "category": ["analytics", "content"]
+    },
+    {
+      "title": "Airview",
+      "body": "Bluesky publishing and analytics.",
+      "tag": "Free",
+      "url": "https://airview.so",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bsky Analytics",
+      "body": "A completely free tool to track your progress on Bsky.",
+      "tag": "Free",
+      "url": "https://bsky-analytics.com",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky Counter",
+      "body": "Track Your Followers - Free Analytics Tool for Bluesky",
+      "tag": "Free",
+      "url": "https://blueskycounter.com",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Pinsky",
+      "body": "Charts to analyze activities and posts engagements, Top posts, People, Pinned posts, Random Post Roll, and more.",
+      "tag": "Free",
+      "url": "https://pinsky.app",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Skircle - Bluesky Interaction Circles",
+      "body": "Create Bluesky Interaction Circles with ease!",
+      "tag": "Free",
+      "url": "https://skircle.me",
+      "date-added": "2024-11-30",
+      "category": ["fun"]
+    },
+    {
+      "title": "Sky Follower Bridge",
+      "body": "Sky Follower Bridge is a Chrome extension that allows you to follow users on Bluesky from your own account.",
+      "tag": "Free",
+      "url": "https://www.sky-follower-bridge.dev",
+      "date-added": "2024-11-30",
+      "category": ["utility"]
+    },
+    {
+      "title": "Vanity Blue",
+      "body": "Free Professional Bluesky Handles | academics.blue, creator.blue & More",
+      "tag": "Free",
+      "url": "https://vanity.blue",
+      "date-added": "2024-11-30",
+      "category": ["utility"]
+    },
+    {
+      "title": "BlueSky By The Second",
+      "body": "Real-time analytics dashboard showing Bluesky social network activity by the second. Track posts, likes, follows, and user growth live.",
+      "tag": "Free",
+      "url": "https://sky.flikq.dev",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky Packs",
+      "body": "Curated Starter Packs to Personalize Your Feed",
+      "tag": "Free",
+      "url": "https://www.blueskypacks.com",
+      "date-added": "2024-11-30",
+      "category": ["starters"]
+    },
+    {
+      "title": "Bluesky Meter",
+      "body": "Beautiful free analytics for Bluesky. No registration required.",
+      "tag": "Free",
+      "url": "https://blueskymeter.com",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky Copilot",
+      "body": "Free tool to analyze your Bluesky posts, see your best/worst performing content, and get AI-powered suggestions to improve your engagement.",
+      "tag": "Free",
+      "url": "https://blueskycopilot.yourgenlab.com",
+      "date-added": "2024-11-30",
+      "category": ["analytics", "content"]
+    },
+    {
+      "title": "Bluesky Starter Packs",
+      "body": "Discover an ever growing list of Starter Packs and Profiles, and connect with your community on Bluesky.",
+      "tag": "Free",
+      "url": "https://www.starterpacks.net",
+      "date-added": "2024-11-30",
+      "category": ["starters"]
+    },
+    {
+      "title": "Bluesky Follower Scanner",
+      "body": "Analyze accounts that follow you.",
+      "tag": "Free",
+      "url": "https://progfeeds.mariozechner.at/scan.html",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Save To Bookmarks",
+      "body": "Tag, Save and Manage your BlueSky Bookmarks like a Pro",
+      "tag": "Free",
+      "url": "https://savetobookmarks.com",
+      "date-added": "2024-11-30",
+      "category": ["utility"]
+    },
+    {
+      "title": "Bluesky Starter Pack",
+      "body": "Discover the best Bluesky accounts to follow with our curated starter packs.",
+      "tag": "Free",
+      "url": "https://blueskystarterpack.com",
+      "date-added": "2024-11-30",
+      "category": ["starters"]
+    },
+    {
+      "title": "Bluesky Starter Packs",
+      "body": "Browse a list of Bluesky Starter Packs. Discover and connect with your community on Bluesky",
+      "tag": "Free",
+      "url": "https://blueskydirectory.com/starter-packs/all",
+      "date-added": "2024-11-30",
+      "category": ["starters"]
+    },
+    {
+      "title": "SkyKit",
+      "body": "SkyKit is a tool to get stats about Bluesky users.",
+      "tag": "Free",
+      "url": "https://skykit.blue",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky Scheduler",
+      "body": "Schedule your posts on Bluesky - Automate your social media presence with our easy-to-use scheduling tool",
+      "tag": "Free",
+      "url": "https://bluesky-scheduler.com",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky Guide 🦋",
+      "body": "An dev and indiehacker's guide to bluesky",
+      "tag": "Free",
+      "url": "https://www.bruderer.ai/blog/bluesky",
+      "date-added": "2024-11-30",
+      "category": ["guide"]
+    },
+    {
+      "title": "Graze.social - Curate Your Bluesky Feeds",
+      "body": "Design, deploy, and grow feeds of any complexity on Bluesky with Graze.social.",
+      "tag": "Free",
+      "url": "https://www.graze.social",
+      "date-added": "2024-11-30",
+      "category": ["analytics"]
+    }
+  ]
+}

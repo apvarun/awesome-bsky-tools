@@ -1,0 +1,26 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Dashboard from "../../components/Dashboard";
+import "../../styles/global.css";
+
+import data from "../../data/tools.json";
+
+export function getStaticPaths() {
+  return [
+    { params: { category: "all" } },
+    ...Array.from(new Set(data.tools.map((tool) => tool.category).flat())),
+  ];
+}
+
+const { category } = Astro.params;
+---
+
+<Layout
+  site=`${category} - Awesome Bluesky tools`
+  title="All in one directory for Bluesky"
+  tagline="Discover tools that complement your Bluesky experience"
+>
+  <main>
+    <Dashboard client:load category=`${category}` />
+  </main>
+</Layout>
