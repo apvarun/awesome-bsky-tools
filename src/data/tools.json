@@ -215,6 +215,38 @@
       "url": "https://www.graze.social",
       "date-added": "2024-11-30",
       "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky Handle Comparison",
+      "body": "Compare the popularity of Bluesky handles.",
+      "tag": "Free",
+      "url": "https://lazuli.xyz",
+      "date-added": "2024-12-05",
+      "category": ["fun"]
+    },
+    {
+      "title": "WhichPack",
+      "body": "Discover which starter packs you are part of.",
+      "tag": "Free",
+      "url": "https://whichpack.com",
+      "date-added": "2024-12-05",
+      "category": ["starters"]
+    },
+    {
+      "title": "Monadsky",
+      "body": "Schedule your Bluesky posts, threads, and images in advance.",
+      "tag": "Free",
+      "url": "https://www.monadsky.com",
+      "date-added": "2024-12-05",
+      "category": ["content"]
+    },
+    {
+      "title": "Bluesky Scheduler",
+      "body": "The best way to schedule posts on Bluesky",
+      "tag": "Free",
+      "url": "https://www.blueskyscheduler.com",
+      "date-added": "2024-12-05",
+      "category": ["content"]
     }
   ]
 }
