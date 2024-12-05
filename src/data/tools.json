@@ -247,6 +247,14 @@
       "url": "https://www.blueskyscheduler.com",
       "date-added": "2024-12-05",
       "category": ["content"]
+    },
+    {
+      "title": "Bluesky.ms",
+      "body": "Connect with the Microsoft community on Bluesky and get your account verified",
+      "tag": "Free",
+      "url": "https://bluesky.ms",
+      "date-added": "2024-12-05",
+      "category": ["customization"]
     }
   ]
 }
