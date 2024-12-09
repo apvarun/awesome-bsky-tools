@@ -37,13 +37,13 @@ const { site, title, tagline } = Astro.props;
   </head>
 
   <body class="flex flex-col min-h-screen px-8 py-4">
-    <div class="floating-nav mb-4" aria-label="main navigation">
+    <div class="flex flex-col md:flex-row justify-between items-center mb-4" aria-label="main navigation">
       <div class="text-xl md:text-2xl font-bold">
         <a href="/" aria-label="home page" tabindex="-1">
           Awesome Bluesky tools
         </a>
       </div>
-      <div class="flex items-center gap-2">
+      <div class="flex items-center">
         <a
           href="https://github.com/apvarun/awesome-bsky-tools/pulls"
           target="_blank"
