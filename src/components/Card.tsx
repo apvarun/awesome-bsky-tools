@@ -17,7 +17,7 @@ export default function Card(props: CardProps) {
     const differenceInTime = today.getTime() - addedDate.getTime();
     const differenceInDays = differenceInTime / (1000 * 3600 * 24);
 
-    return differenceInDays <= 30;
+    return differenceInDays <= 7;
   };
 
   return (
