@@ -255,6 +255,54 @@
       "url": "https://bluesky.ms",
       "date-added": "2024-12-05",
       "category": ["customization"]
+    },
+    {
+      "title": "TrackBlue - Your Bluesky Analytics & CRM",
+      "body": "Track your Bluesky growth and gain actionable insights. Optimize your social media strategy with real-time analytics and CRM tools.",
+      "tag": "Free",
+      "url": "https://track.blue",
+      "date-added": "2024-12-09",
+      "category": ["analytics"]
+    },
+    {
+      "title": "BlueSky Analytics",
+      "body": "Grow Your Bluesky Presence",
+      "tag": "Free",
+      "url": "https://www.bskyanalytix.com",
+      "date-added": "2024-12-09",
+      "category": ["analytics"]
+    },
+    {
+      "title": "BlueMigrate",
+      "body": "Migrate your tweets and follows to Bluesky in a few clicks",
+      "tag": "Free",
+      "url": "https://bluemigrate.com",
+      "date-added": "2024-12-09",
+      "category": ["utility"]
+    },
+    {
+      "title": "SkyScout",
+      "body": "Scout through Bluesky to find your interests",
+      "tag": "Free",
+      "url": "https://sky-scout.app",
+      "date-added": "2024-12-09",
+      "category": ["content"]
+    },
+    {
+      "title": "Bluesky Banner",
+      "body": "Show your BlueSky statistics directly in your banner.",
+      "tag": "Free",
+      "url": "https://bskybanner.com",
+      "date-added": "2024-12-09",
+      "category": ["fun"]
+    },
+    {
+      "title": "BlueskyStats.fyi - Track your Bluesky analytics",
+      "body": "Discover detailed analytics and insights for any Bluesky user instantly.",
+      "tag": "Free",
+      "url": "https://blueskystats.fyi",
+      "date-added": "2024-12-09",
+      "category": ["analytics"]
     }
   ]
 }
