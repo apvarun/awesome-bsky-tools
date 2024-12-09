@@ -20,10 +20,13 @@ export default function Card(props: CardProps) {
     return differenceInDays <= 7;
   };
 
+  const link = new URL(href);
+  link.searchParams.set("ref", "awesome-bsky-tools.pages.dev");
+
   return (
     <li>
       <a
-        href={href}
+        href={link.toString()}
         target="_blank"
         className="w-full h-full bg-gray-100 rounded-lg p-4 transition-colors hover:bg-gray-200/80 border border-gray-200 flex flex-col"
       >
