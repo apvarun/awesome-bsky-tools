@@ -303,6 +303,14 @@
       "url": "https://blueskystats.fyi",
       "date-added": "2024-12-09",
       "category": ["analytics"]
+    },
+    {
+      "title": "Wamellow - Discord Bot",
+      "body": "Get Bluesky post notifications directly to your Discord server in real time - all for free.",
+      "tag": "Free",
+      "url": "https://wamellow.com/docs/notifications",
+      "date-added": "2025-06-11",
+      "category": ["utility"]
     }
   ]
 }
