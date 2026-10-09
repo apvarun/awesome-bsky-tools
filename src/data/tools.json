@@ -303,6 +303,14 @@
       "url": "https://blueskystats.fyi",
       "date-added": "2024-12-09",
       "category": ["analytics"]
+    },
+    {
+      "title": "Bluesky Wrapped MadebyOlof",
+      "body": "Like Spotify Wrapped, but for Bluesky. A community-made way to rediscover your top posts, spot your posting habits, and look back at the people who made your year on Bluesky. Share your highlights with a link or downloadable image. No login needed.",
+      "tag": "Free",
+      "url": "https://blueskywrapped.madebyolof.com/",
+      "date-added": "2026-10-09",
+      "category": ["analytics", "fun"]
     }
   ]
 }
