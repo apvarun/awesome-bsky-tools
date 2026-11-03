@@ -303,6 +303,14 @@
       "url": "https://blueskystats.fyi",
       "date-added": "2024-12-09",
       "category": ["analytics"]
+    },
+    {
+      "title": "LurkAPI Bluesky Viewer",
+      "body": "See any public Bluesky account's posts, with images, video, likes and reposts, without an account, and download them as CSV. 5 free lookups a day without signing up.",
+      "tag": "Free",
+      "url": "https://lurkapi.com/free-tools/bluesky-viewer",
+      "date-added": "2026-11-03",
+      "category": ["utility"]
     }
   ]
 }
